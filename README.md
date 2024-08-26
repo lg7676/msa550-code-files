@@ -1,4 +1,3 @@
-# msa550-code-file
 # Predictive Analytics Class Materials
 
 Welcome to the repository for our Predictive Analytics class! This repository contains Python notebooks created in Google Colab that we'll be using throughout the course.
